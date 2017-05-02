@@ -1,0 +1,32 @@
+#rcorners1 {
+    float: center;
+    border-radius: 25px;
+    background: lightblue;
+    padding: 20px;
+    width: 700px;
+    height: 300px;
+}
+#rcorners2 {
+    float:left;
+    border-radius: 25px;
+    background: slategray;
+    padding: 20px;
+    width: 500px;
+    height: 250px;
+}
+#rcorners3 {
+    float:right;
+    border-radius: 25px;
+    background: slategray;
+    padding: 20px;
+    width: 500px;
+    height: 250px;
+}
+#rcorners4 {
+    float:right;
+    border-: 25px;
+    background: lightblue;
+    padding: 20px;
+    width: 1317px;
+    height: 20px;
+}
